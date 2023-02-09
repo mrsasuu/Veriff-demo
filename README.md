@@ -30,3 +30,9 @@ Reproduce Android:
 - Run yarn android
 - Replace `const sessionToken = 'PASTE A NEW SESSION TOKEN';` in App.tsx file.
 - Click on Start verification button and scan a real driving license.
+
+
+https://user-images.githubusercontent.com/18662998/217899242-a4c1dcd9-3ed8-47e2-9924-5cbe03e6a251.MP4
+
+
+
