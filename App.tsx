@@ -10,7 +10,6 @@ import VeriffSdk from '@veriff/react-native-sdk';
 
 function App(): JSX.Element {
   const handleVeriff = useCallback(async () => {
-    console.log('veriffSDK', VeriffSdk);
     const sessionToken = 'PASTE A NEW SESSION TOKEN';
 
     const result = await VeriffSdk.launchVeriff({
