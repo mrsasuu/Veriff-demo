@@ -12,6 +12,12 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>NSCameraUsageDescription</key>
+    <string>Require access to verify your driver&apos;s license.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Access to microphone is required to verify your driver&apos;s license.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Requires access to the photo library to take photos of the verify your driver&apos;s license.</string>
 	<key>CFBundleName</key>
 	<string>$(PRODUCT_NAME)</string>
 	<key>CFBundlePackageType</key>
